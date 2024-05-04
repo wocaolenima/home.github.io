@@ -1,1 +1,2 @@
-i.dmego.cn
+touch CNAME
+echo 'jerome.best' > CNAME
